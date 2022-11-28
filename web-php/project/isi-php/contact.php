@@ -1,0 +1,2 @@
+<h1>hubungi kami</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis recusandae eum deleniti suscipit quidem eveniet libero laboriosam maiores iure! Eum temporibus nesciunt laborum ducimus commodi, ullam officia quam molestias libero.</p>

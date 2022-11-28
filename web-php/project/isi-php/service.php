@@ -1,0 +1,2 @@
+<h1>Costume Service</h1>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius sapiente, est quam vero quasi voluptatem a et aliquid non nam earum. Veniam nemo ab sit reiciendis cupiditate est ut nihil!</p>
